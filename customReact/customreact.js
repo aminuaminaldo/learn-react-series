@@ -15,7 +15,7 @@ const reactElement = {
         'href': "https://www.youtube.com/@aminuaminaldo",
         'target': '_blank'
     },
-    children: 'click to visit google.'
+    children: 'click to visit my channel.'
 }
 
 const mainContainer = document.querySelector("#root")

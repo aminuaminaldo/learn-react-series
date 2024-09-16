@@ -1,6 +1,6 @@
 function Facebook (){
     return (
-        <h1>This is facebook page...</h1>
+        <h1>This is facebook page..</h1>
     )
 }
 
