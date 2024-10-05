@@ -1,35 +1,40 @@
-#starting my react journey
+# React Practise Projects
 
-# Footer Component
+A collection of 7 React projects built with Tailwind CSS.
 
-A responsive footer component built with React and Tailwind CSS.
+## Project Showcase
 
-## Screenshots
+### Project 1: [Project 1 Name]
 
-- ![Footer Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- ![Project 1 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 1 Demo](https://via.placeholder.com/150x100)](https://example.com/project1_demo.mp4) (replace with actual video URL)
 
-## Demo Video
+### Project 2: [Project 2 Name]
 
-- [![Footer Demo](https://via.placeholder.com/150x100)](https://example.com/footer_demo.mp4) (replace with actual video URL)
+- ![Project 2 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 2 Demo](https://via.placeholder.com/150x100)](https://example.com/project2_demo.mp4) (replace with actual video URL)
 
-## Features
+### Project 3: [Project 3 Name]
 
-- Responsive design using Tailwind CSS
-- Links to social media profiles (Facebook, Discord, Twitter, GitHub, Dribbble)
-- Copyright information with a link to the author's GitHub profile
+- ![Project 3 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 3 Demo](https://via.placeholder.com/150x100)](https://example.com/project3_demo.mp4) (replace with actual video URL)
 
-## Code Structure
+### Project 4: [Project 4 Name]
 
-The footer component is built using React and is divided into several sections:
+- ![Project 4 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 4 Demo](https://via.placeholder.com/150x100)](https://example.com/project4_demo.mp4) (replace with actual video URL)
 
-- `Footer.js`: The main footer component
-- `index.js`: The entry point for the component
-- `styles.css`: The CSS styles for the component using Tailwind CSS
+### Project 5: [Project 5 Name]
 
-## Getting Started
+- ![Project 5 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 5 Demo](https://via.placeholder.com/150x100)](https://example.com/project5_demo.mp4) (replace with actual video URL)
 
-To use this footer component in your project, simply copy the `Footer.js` and `styles.css` files into your project directory and import the component into your React app.
+### Project 6: [Project 6 Name]
 
-## License
+- ![Project 6 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 6 Demo](https://via.placeholder.com/150x100)](https://example.com/project6_demo.mp4) (replace with actual video URL)
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+### Project 7: [Project 7 Name]
+
+- ![Project 7 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- [![Project 7 Demo](https://via.placeholder.com/150x100)](https://example.com/project7_demo.mp4) (replace with actual video URL)
