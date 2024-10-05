@@ -34,7 +34,7 @@ A collection of 7 React projects built with Tailwind CSS.
 - ![Project 6 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
 - [![Project 6 Demo](https://via.placeholder.com/150x100)](https://example.com/project6_demo.mp4) (replace with actual video URL)
 
-### Project 7: [Project 7 Name]
+### Project 7: React Router DOM
 
-- ![Project 7 Screenshot](https://via.placeholder.com/350x150) (replace with actual screenshot)
+- ![Project 7 Screenshot](../Desktop/reactRouter.png/350x150)
 - [![Project 7 Demo](https://via.placeholder.com/150x100)](https://example.com/project7_demo.mp4) (replace with actual video URL)
