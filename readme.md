@@ -27,3 +27,7 @@ A collection of 7 React projects built with Tailwind CSS.
 ### Project 7: React Router DOM
 
 - ![Project 7 Screenshot](./07%20reactRounter/src/assets/react_router_dom.png)
+
+### Project 8: Context API
+
+- ![Project 8 Screenshot](./08miniContext/src/assets/context_api.png)
