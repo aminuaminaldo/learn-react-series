@@ -1,6 +1,6 @@
 # React Practise Projects
 
-A collection of 7 React projects built with Tailwind CSS.
+A collection of 9 React projects built with Tailwind CSS.
 
 ## Project Showcase
 
@@ -31,3 +31,7 @@ A collection of 7 React projects built with Tailwind CSS.
 ### Project 8: Context API
 
 <img src="./08miniContext/src/assets/context_api.png" width="500" />
+
+### Project 9: Theme Switcher
+
+<img src="./09themeswitcher/src/assets/theme_switcher.png" width="500" />
