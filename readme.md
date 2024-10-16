@@ -1,6 +1,6 @@
 # React Practise Projects
 
-A collection of 9 React projects built with Tailwind CSS.
+A collection of 10 React projects built with Tailwind CSS.
 
 ## Project Showcase
 
@@ -35,3 +35,7 @@ A collection of 9 React projects built with Tailwind CSS.
 ### Project 9: Theme Switcher
 
 <img src="./09themeswitcher/src/assets/theme_switcher.png" width="500" />
+
+### Project 10: Todo Context with Local Storage
+
+<img src="./10todoContextLocal/src/assets/todo_context.png" width="500" />
