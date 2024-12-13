@@ -16,7 +16,7 @@ function Header() {
     { name: "Add Post", slug: "/add-post", active: authStatus },
   ];
   return (
-    <header className="py-3 shadow bg-gray-800">
+    <header className="py-3 shadow bg-gray-500">
       <Container>
         <nav className="flex">
           <div className="mr-4">
