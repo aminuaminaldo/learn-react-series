@@ -1,7 +1,14 @@
 import React from "react";
-
+import Container from "../components/Container/Container";
+import PostForm from "../components/post-form/PostForm";
 function AddPost() {
-  return <div>AddPost</div>;
+  return (
+    <div className="py-6">
+      <Container>
+        <PostForm />
+      </Container>
+    </div>
+  );
 }
 
 export default AddPost;
